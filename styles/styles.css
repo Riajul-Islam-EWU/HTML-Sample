@@ -1,0 +1,13 @@
+body {
+    background-color: #202020;
+    color: white;   
+}
+.greatings {
+    text-align: center; 
+}
+.describe_myself {
+    text-align: left;
+}
+.about_me {
+    text-align: center;
+}
